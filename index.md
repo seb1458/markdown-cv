@@ -3,18 +3,17 @@ layout: cv
 title: Lebenslauf Sebastian Scheu
 ---
 # Sebastian Scheu
-Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
 <a href="seba-s@posteo.net">seba-s@posteo.net</a> |
-<a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href=""></a>
 </div>
 
 
 ## Aktuell
 
-Ich bin ein Dokorant der Umweltwissenschaften an der Universität Koblenz-Landau. Während meiner Promotion analysiere und modelliere ich Spinnen- und
-Regenwurmgemeischaften für ganz Europa.
+Ich bin ein Dokorant der Umweltwissenschaften an der Universität Koblenz-Landau. Während meiner Promotion analysiere und arbeite ich Spinnen- und
+Regenwurmgemeischaften in ganz Europa. Während meiner Studienzeit habe ich die Skriptsprache *R* für mich entdeckt und genieße nun alle Möglichkeiten der Datenaufbereitung, -analyse und -visualisierung, egal ob es sich um ökologische, räumliche oder xxx Daten handelt.
 
 
 ## Ausbildung
@@ -29,7 +28,7 @@ __Universität Koblenz-Landau__ M. Sc. - Environmental Sciences (Schwerpunkt: *E
 __Universität Koblenz-Landau__ B. Sc. - Umweltwissenschaften
 
 `2008-2011`
-__Universitätsklinikum Tübingen__ Staatliche examinierter medizin-technischer Assisstent
+__Universitätsklinikum Tübingen__ Ausbildung zum Medizin-technischer Assisstent (Staatsexmaen)
 
 `1997-2007`
 __Gymnasium Nürtingen__ Abitur
@@ -47,7 +46,6 @@ __Gymnasium Nürtingen__ Abitur
 * MS Excel (Fortgeschritten) 
 * MS Powerpoint (Fortgeschritten)
 * Markdown Anwednungen (Fortgeeschritten)
-
 
 ## Sachkenntnisse
 
