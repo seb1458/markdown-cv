@@ -51,6 +51,8 @@ __Gymnasium Nürtingen__ Abitur
 * Datenaufbereitung
 * Datenanalyse
 * Datenvisualisierung
+* - Data-Wrangling
+* - Web-Scraping
 
 <!-- ### Footer
 
