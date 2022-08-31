@@ -11,13 +11,13 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 
-## Currently
+## Aktuell
 
 Ich bin ein Dokorant der Umweltwissenschaften an der Universität Koblenz-Landau. Während meiner Promotion analysiere und modelliere ich Spinnen- und
 Regenwurmgemeischaften für ganz Europa.
 
 
-## Education
+## Ausbildung
 
 `2019-2022`
 __Universität Koblenz-Landau__ PhD - Landschaftsökologie und Ökosystemanalyse
@@ -28,24 +28,32 @@ __Universität Koblenz-Landau__ M. Sc. - Environmental Sciences (Schwerpunkt: *E
 `2012-2015`
 __Universität Koblenz-Landau__ B. Sc. - Umweltwissenschaften
 
+`2008-2011`
+__Universitätsklinikum Tübingen__ Staatliche examinierter medizin-technischer Assisstent
+
 `1997-2007`
 __Gymnasium Nürtingen__ Abitur
 
 
 ## Technische Kompetenzen
 
-|                     |                        |                                  |
-| ------------------- | ---------------------- | -------------------------------- |
-| R (Fortgeschritten) | QGIS (Fortgeschritten) | MS Word (Fortgeschritten)        |
-| Python (Anfänger)   | SQL (Anfänger)         | MS Excel (Fortgeschritten)       |
-|  Git und GitHub     | Power BI (Anfänger)    | MS Powerpoint (Fortgeschritten)  |
+* R (Fortgeschritten)
+* Python (Anfänger)
+* QGIS (Fortgeschritten)
+* Git und GitHub (Anfänger)
+* SQL (Anfänger)
+* Power BI (Anfänger)
+* MS Word (Fortgeschritten) 
+* MS Excel (Fortgeschritten) 
+* MS Powerpoint (Fortgeschritten)
+* Markdown Anwednungen (Fortgeeschritten)
 
 
 ## Sachkenntnisse
 
-
-| Datenaufbereitung | Datenvisualisierung | 
-| | |
+* Datenaufbereitung
+* Datenanalyse
+* Datenvisualisierung
 
 <!-- ### Footer
 
