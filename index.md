@@ -12,7 +12,7 @@ title: Lebenslauf Sebastian Scheu
 
 ## Aktuell
 
-Ich bin ein Dokorant der Umweltwissenschaften an der Universität Koblenz-Landau. Während meiner Promotion analysiere und arbeite ich Spinnen- und
+Ich bin Dokorant der Umweltwissenschaften an der Universität Koblenz-Landau. Während meiner Promotion analysiere und arbeite ich Spinnen- und
 Regenwurmgemeischaften in ganz Europa. Während meiner Studienzeit habe ich die Skriptsprache *R* für mich entdeckt und genieße nun alle Möglichkeiten der Datenaufbereitung, -analyse und -visualisierung, egal ob es sich um ökologische, räumliche oder xxx Daten handelt.
 
 
@@ -45,7 +45,6 @@ __Gymnasium Nürtingen__ Abitur
 * MS Word (Fortgeschritten) 
 * MS Excel (Fortgeschritten) 
 * MS Powerpoint (Fortgeschritten)
-* Markdown Anwednungen (Fortgeeschritten)
 
 ## Sachkenntnisse
 
